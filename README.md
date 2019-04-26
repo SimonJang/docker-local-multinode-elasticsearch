@@ -1,10 +1,10 @@
 # Run a multinode elasticsearch cluster locally (for testing purposes)
 
-# What?
+## What?
 
 Running a multinode (3) ElasticSearch cluster locally.
 
-## Instructions
+### Instructions
 
 run `docker-compose up` in this folder.
 
@@ -16,6 +16,6 @@ run `docker-compose up` in this folder.
 
 Running queries on ElasticSearch in an environment simulating a production setup.
 
-# Modifications
+## Modifications
 
 Comment out a node or add additional nodes if you want to remove/add existing nodes.
